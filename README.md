@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Enthusiast in Weather Radar and Artificial Intelligence.
 - ☕ &nbsp; No coffee no code. 
 - 😄 Pronouns: She/Her
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="450"/>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | MATLAB | C/C++ | Fortran  
