@@ -1,6 +1,5 @@
 <h2><img src="https://img.icons8.com/dusk/64/000000/storm--v1.png" width="30" /> Hey there! I'm Brianna.<img src="https://img.icons8.com/dusk/64/000000/storm--v1.png" width="30" /></h2>
-<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="500"/>
--->
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,7 +8,7 @@
 - 🌱 &nbsp; Enthusiast in Weather Radar and Artificial Intelligence.
 - ☕ &nbsp; No coffee no code. 
 - 😄 Pronouns: She/Her
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="500"/>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | MATLAB | C/C++ | Fortran  
