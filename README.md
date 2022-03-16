@@ -6,7 +6,7 @@
 - 🎓 &nbsp; I’m currently a Masters student studying Electrical Engineering
 - 🤔 &nbsp; Exploring new radar and satellite technologies and developing software solutions for them.
 - ⚡ &nbsp; Enthusiast in Weather Radar and Artificial Intelligence.
-- 🌱 &nbsp; Next project is decoding raw data from GOES and METEOR satellites into images.
+- 🌱 &nbsp; Current project is Nimbus, an open-source NOAA polar satellite decoding framework.
 - ☕ &nbsp; No coffee no code. 
 - 😄 &nbsp; Pronouns: She/Her
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="450"/>
