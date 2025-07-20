@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m currently a PhD student studying Electrical Engineering at the University of Oklahoma, specializing in Radar Signal Processing
-- 🤔 &nbsp; Exploring new radar and satellite technologies and developing software solutions for them.
-- ⚡ &nbsp; Enthusiast in Weather Radar and Artificial Intelligence.
-- ☕ &nbsp; No coffee no code. 
+- 🎓 &nbsp; PhD Candidate (Electrical Engineering) at the University of Oklahoma
+- 📡 &nbsp; Developing AI-Based Adaptive Scanning for Phased Array Weather Radar 
+- ⚡ &nbsp; Learning Everything I Can About Convective Meteorology
+- ☕ &nbsp; No coffee? No code. 
 - 😄 &nbsp; Pronouns: She/Her
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Quinticx/Quinticx/master/working.gif" width="450"/>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | MATLAB | C/C++ | Fortran  
-- 🌐 &nbsp; Numpy | Scipy | TensorFlow/PyTorch | OpenCL/CUDA 
+- 💻 &nbsp; Python | MATLAB | C/C++   
+- 🌐 &nbsp; PyTorch | Numpy/Scipy | PyART 
 - 🔧 &nbsp; VIM | PyCharm
 - 🖥 &nbsp; Linux | MacOS | Windows
 <!-- 
